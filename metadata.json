@@ -1,0 +1,5 @@
+{
+  "name": "Image CDN Optimizer",
+  "description": "An interactive web application to demonstrate modern image optimization techniques. Upload an image to see optimized versions in WebP and AVIF formats, complete with size comparisons and AI-powered descriptions.",
+  "requestFramePermissions": []
+}
